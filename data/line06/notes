@@ -1,0 +1,8 @@
+style of data row:
+n Ax Az Bx Bz Mx Mz Nx Nz value (resistiv or resist)
+
+data\line06\Line06_Dipole-Dipole_NoNeg_Topo_trim-50.dat
+- electrodes not at the same elev so topo alr applied
+
+data\line06\Line06_Dipole-Dipole_NoNeg_Topo.dat
+- assumes flat ground, topo not applied
